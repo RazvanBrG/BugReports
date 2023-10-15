@@ -38,7 +38,9 @@ The text is to small on other devices like phones.
 
 **Steps to reproduce:**
 1. Go to https://www.primariatechirghiol.ro/ from a smartphone and observe the text
-                                           Or
+
+   Or
+
 1. Go to https://www.primariatechirghiol.ro/
 2. Right click - Inspect
 3. Press CTRL+Shift+M
